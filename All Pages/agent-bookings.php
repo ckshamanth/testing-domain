@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7104675589295128"
+     crossorigin="anonymous"></script>
 <title>BookMyHall - Online Convention Hall Booking</title>
 
 	<!-- Meta Tags -->
